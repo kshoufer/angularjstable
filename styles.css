@@ -1,0 +1,27 @@
+table {
+    width: 500px;   
+}
+
+th {
+    text-align: left;
+    background-color: #efefef;
+}
+
+th:hover {
+            background-color: #FAB594;
+            color: #fff;
+}
+
+th span.fa-sort {
+    float: right;
+    padding-right: 10px;
+}
+
+th span.fa-sort:hover {
+    color: #fff;
+}
+
+th a {
+    text-decoration: none;
+    color: #000;
+}
